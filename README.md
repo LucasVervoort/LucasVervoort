@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lucas
-- I code mostly in python
+- I code mostly in python and in C++ for my arduino
 - I don't know why i'm programming, because I already slammed 7 monitors when my code didn't worked
 - Programming isn't fun.
 
