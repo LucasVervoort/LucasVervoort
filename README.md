@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Lucas
-- I code mostly in python and in C++ for my arduino
-- Programming isn't fun.
+
 
 
 <!---
